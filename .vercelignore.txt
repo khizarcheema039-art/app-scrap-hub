@@ -1,0 +1,5 @@
+   chart_crawler.py
+   database.py
+   *.csv
+   __pycache__
+   .venv
